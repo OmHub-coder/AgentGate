@@ -33,17 +33,21 @@ def analyze(command):
     if score >= 70:
 
         decision = "BLOCK"
+        level = "CRITICAL"
 
     elif score >= 30:
 
         decision = "REVIEW"
+        level = "MEDIUM"
 
     else:
 
         decision = "ALLOW"
+        level = "LOW"
 
     return {
-        "score": score,
-        "decision": decision,
-        "reasons": reasons
-    }
+    "score": score,
+    "decision": decision,
+    "level": level,
+    "reasons": reasons
+}

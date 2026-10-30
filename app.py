@@ -16,10 +16,10 @@ if st.button("Analyze"):
 
     result = analyze(command)
 
-    st.metric(
-        "Risk Score",
-        result["score"]
-    )
+    st.write(
+    "Risk Level:",
+    result["level"])
+    
 
     if result["decision"] == "ALLOW":
         st.success("✅ ALLOW")
