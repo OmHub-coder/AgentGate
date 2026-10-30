@@ -21,10 +21,14 @@ if st.button("Analyze"):
         result["score"]
     )
 
-    st.write(
-        "Decision:",
-        result["decision"]
-    )
+    if result["decision"] == "ALLOW":
+        st.success("✅ ALLOW")
+
+    elif result["decision"] == "REVIEW":
+        st.warning("⚠ REVIEW")
+
+    else:
+        st.error("🚫 BLOCK")
 
     st.write(
         result["reasons"]
