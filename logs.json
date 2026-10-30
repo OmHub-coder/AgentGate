@@ -1,0 +1,8 @@
+[
+    {
+        "action": "email password database",
+        "score": 60,
+        "level": "MEDIUM",
+        "decision": "REVIEW"
+    }
+]
