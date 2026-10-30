@@ -1,6 +1,6 @@
 import json
 import os
-
+from datetime import datetime
 
 def save_log(data):
 
@@ -15,6 +15,10 @@ def save_log(data):
     else:
 
         logs = []
+
+    data["timestamp"] = datetime.now().strftime(
+    "%d-%m-%Y %H:%M"
+    )
 
     logs.append(data)
 

@@ -4,5 +4,36 @@
         "score": 60,
         "level": "MEDIUM",
         "decision": "REVIEW"
+    },
+    {
+        "action": "Convert this image into a file",
+        "score": 0,
+        "level": "LOW",
+        "decision": "ALLOW"
+    },
+    {
+        "action": "Create a new account on google",
+        "score": 0,
+        "level": "LOW",
+        "decision": "ALLOW"
+    },
+    {
+        "action": "Delete all files",
+        "score": 70,
+        "level": "CRITICAL",
+        "decision": "BLOCK"
+    },
+    {
+        "action": "Access my google account",
+        "score": 0,
+        "level": "LOW",
+        "decision": "ALLOW"
+    },
+    {
+        "action": "Remove this app from my computer",
+        "score": 70,
+        "level": "CRITICAL",
+        "decision": "BLOCK",
+        "timestamp": "31-10-2026 02:04"
     }
 ]
