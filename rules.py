@@ -11,6 +11,9 @@ SENSITIVE_WORDS = [
     "password",
     "email",
     "credential",
+    "Deactivate"
     "bank",
-    "payment"
+    "payment",
+    "account",
+    "google"
 ]
