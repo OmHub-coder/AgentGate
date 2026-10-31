@@ -50,5 +50,26 @@
         "level": "MEDIUM",
         "decision": "REVIEW",
         "timestamp": "31-10-2026 11:00"
+    },
+    {
+        "action": "Shutdown the server",
+        "score": 70,
+        "level": "CRITICAL",
+        "decision": "BLOCK",
+        "timestamp": "31-10-2026 11:17"
+    },
+    {
+        "action": "Create a new excel sheet",
+        "score": 0,
+        "level": "LOW",
+        "decision": "ALLOW",
+        "timestamp": "31-10-2026 11:32"
+    },
+    {
+        "action": "Modify the current Excel Sheet",
+        "score": 0,
+        "level": "LOW",
+        "decision": "ALLOW",
+        "timestamp": "31-10-2026 11:33"
     }
 ]

@@ -27,7 +27,7 @@ Stay consistent with the rules-engine output.
 """
 
     response = ollama.chat(
-        model="qwen3:4b",
+        model="qwen2.5:0.5b",
         messages=[
             {
                 "role": "user",

@@ -123,9 +123,10 @@ Monitoring Dashboard
 </tr>
 
 <tr>
-<td>Qwen3:4B</td>
+<td>Qwen2.5:0.5B</td>
 <td>AI Security Analyst</td>
 </tr>
+
 
 <tr>
 <td>JSON</td>
@@ -290,7 +291,7 @@ AgentGate was independently conceptualized, developed, integrated, tested, and d
 <li>Activity Monitoring Dashboard</li>
 <li>Executive Summary Generation</li>
 <li>Ollama Integration</li>
-<li>Qwen3:4B AI Integration</li>
+<li>Qwen2.5:0.5B AI Integration</li>
 <li>Git & GitHub Version Control</li>
 <li>Testing and Debugging</li>
 <li>Presentation and Documentation</li>
@@ -315,7 +316,7 @@ AI tools were used as development assistants during the project.
 </ul>
 
 <p>
-All implementation, integration, customization, testing, architectural decisions, debugging, and final project delivery were completed independently by the developer.
+Some implementation, customization, testing, architectural decisions, debugging, and final project delivery were completed independently by the developer.
 </p>
 
 <hr>
@@ -325,7 +326,7 @@ All implementation, integration, customization, testing, architectural decisions
 <ul>
 <li>Built a complete AI-powered application from scratch</li>
 <li>Integrated a local Large Language Model using Ollama</li>
-<li>Worked with the Qwen3:4B model</li>
+<li>Worked with the Qwen2.5:0.5B model</li>
 <li>Learned Streamlit dashboard development</li>
 <li>Implemented Explainable AI concepts</li>
 <li>Applied Zero-Trust Security principles</li>
