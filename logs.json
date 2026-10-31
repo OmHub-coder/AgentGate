@@ -71,5 +71,96 @@
         "level": "LOW",
         "decision": "ALLOW",
         "timestamp": "31-10-2026 11:33"
+    },
+    {
+        "action": "Submit my pdf",
+        "score": 0,
+        "level": "LOW",
+        "decision": "ALLOW",
+        "timestamp": "31-10-2026 12:26"
+    },
+    {
+        "action": "Create pdf report",
+        "score": 0,
+        "level": "LOW",
+        "decision": "ALLOW",
+        "timestamp": "31-10-2026 12:52"
+    },
+    {
+        "action": "Delete the account",
+        "score": 100,
+        "level": "CRITICAL",
+        "decision": "BLOCK",
+        "timestamp": "31-10-2026 12:52"
+    },
+    {
+        "action": "Email password detector",
+        "score": 60,
+        "level": "MEDIUM",
+        "decision": "REVIEW",
+        "timestamp": "31-10-2026 12:52"
+    },
+    {
+        "action": "Access bank credentials ",
+        "score": 30,
+        "level": "MEDIUM",
+        "decision": "REVIEW",
+        "timestamp": "31-10-2026 12:59"
+    },
+    {
+        "action": "Backup user data",
+        "score": 0,
+        "level": "LOW",
+        "decision": "ALLOW",
+        "timestamp": "31-10-2026 13:00"
+    },
+    {
+        "action": "Shutdown the server",
+        "score": 70,
+        "level": "CRITICAL",
+        "decision": "BLOCK",
+        "timestamp": "31-10-2026 13:00"
+    },
+    {
+        "action": "Create pdf report\n",
+        "score": 0,
+        "level": "LOW",
+        "decision": "ALLOW",
+        "timestamp": "31-10-2026 13:13"
+    },
+    {
+        "action": "Email Password Detector\n",
+        "score": 60,
+        "level": "MEDIUM",
+        "decision": "REVIEW",
+        "timestamp": "31-10-2026 13:13"
+    },
+    {
+        "action": "Delete the files",
+        "score": 70,
+        "level": "CRITICAL",
+        "decision": "BLOCK",
+        "timestamp": "31-10-2026 13:14"
+    },
+    {
+        "action": "Create the pdf report",
+        "score": 0,
+        "level": "LOW",
+        "decision": "ALLOW",
+        "timestamp": "31-10-2026 13:28"
+    },
+    {
+        "action": "Email Password Database",
+        "score": 60,
+        "level": "MEDIUM",
+        "decision": "REVIEW",
+        "timestamp": "31-10-2026 13:28"
+    },
+    {
+        "action": "Delete the file",
+        "score": 70,
+        "level": "CRITICAL",
+        "decision": "BLOCK",
+        "timestamp": "31-10-2026 13:29"
     }
 ]
