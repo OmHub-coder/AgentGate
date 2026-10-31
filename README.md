@@ -259,13 +259,12 @@ This enables safer adoption of AI agents in real-world environments.
 
 <hr>
 
-<h2>👨‍💻 Team</h2>
+<h2>👨‍💻 Developer</h2>
 
 <p>
-Built during Hackathon 🚀
-</p>
-
-<p>
+<b>Name:</b> Om Jindal<br>
+<b>GitHub:</b> OmHub-coder<br>
+<b>Project Type:</b> Solo Hackathon Project<br>
 <b>Project:</b> AgentGate<br>
 <b>Category:</b> AI Security / Agent Safety<br>
 <b>Type:</b> Zero-Trust AI Security Platform
@@ -273,6 +272,107 @@ Built during Hackathon 🚀
 
 <hr>
 
-<p align="center">
-🛡️ AgentGate — Secure AI Actions Before Execution
+<h2>🛠 Development Process</h2>
+
+<p>
+AgentGate was independently conceptualized, developed, integrated, tested, and deployed as a solo hackathon project.
 </p>
+
+<h3>Implemented Personally</h3>
+
+<ul>
+<li>Project Architecture Design</li>
+<li>Risk Scoring Engine</li>
+<li>Threat Classification Logic</li>
+<li>ALLOW / REVIEW / BLOCK Decision System</li>
+<li>Streamlit Security Dashboard</li>
+<li>Audit Logging System</li>
+<li>Activity Monitoring Dashboard</li>
+<li>Executive Summary Generation</li>
+<li>Ollama Integration</li>
+<li>Qwen3:4B AI Integration</li>
+<li>Git & GitHub Version Control</li>
+<li>Testing and Debugging</li>
+<li>Presentation and Documentation</li>
+</ul>
+
+<hr>
+
+<h2>🤖 AI Assistance Disclosure</h2>
+
+<p>
+AI tools were used as development assistants during the project.
+</p>
+
+<ul>
+<li>Architecture brainstorming</li>
+<li>Debugging assistance</li>
+<li>Streamlit guidance</li>
+<li>UI improvement suggestions</li>
+<li>Documentation support</li>
+<li>README refinement</li>
+<li>Presentation preparation</li>
+</ul>
+
+<p>
+All implementation, integration, customization, testing, architectural decisions, debugging, and final project delivery were completed independently by the developer.
+</p>
+
+<hr>
+
+<h2>🎯 Learning Outcomes</h2>
+
+<ul>
+<li>Built a complete AI-powered application from scratch</li>
+<li>Integrated a local Large Language Model using Ollama</li>
+<li>Worked with the Qwen3:4B model</li>
+<li>Learned Streamlit dashboard development</li>
+<li>Implemented Explainable AI concepts</li>
+<li>Applied Zero-Trust Security principles</li>
+<li>Created audit logging and monitoring systems</li>
+<li>Practiced professional Git & GitHub workflows</li>
+</ul>
+<hr>
+
+<h2>⏱️ Development Timeline</h2>
+
+<ul>
+<li>Designed project architecture</li>
+<li>Implemented risk scoring engine</li>
+<li>Built threat classification system</li>
+<li>Developed Streamlit dashboard</li>
+<li>Integrated Ollama with Qwen3:4B</li>
+<li>Added Explainable AI analysis</li>
+<li>Implemented audit logging</li>
+<li>Created activity monitoring dashboard</li>
+<li>Prepared presentation and documentation</li>
+</ul>
+<hr>
+
+<h2>🌍 Vision</h2>
+
+<p>
+As AI agents become more autonomous, organizations need security, oversight,
+and governance mechanisms that ensure actions are evaluated before execution.
+
+AgentGate aims to become a Zero-Trust Security Layer for Agentic AI systems by
+combining deterministic security rules, Explainable AI, audit logging, and
+real-time monitoring.
+
+The goal is simple:
+
+<b>Every AI action should be verified before it is executed.</b>
+</p>
+<hr>
+
+<h2>📦 Installation</h2>
+
+<pre>
+git clone YOUR_REPOSITORY_URL
+
+cd AgentGate
+
+pip install -r requirements.txt
+
+streamlit run app.py
+</pre>
