@@ -376,3 +376,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 </pre>
+
+<h6>Requirements</h6>
+<p>Streamlit</p>
+<p>ollama</p>
